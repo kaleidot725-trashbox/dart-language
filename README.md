@@ -1,1 +1,3 @@
-# ![dart](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg)
+# Dart
+
+[A tour of the Dart language](https://dart.dev/guides/language/language-tour)の内容をひたすら進めていくリポジトリです。
