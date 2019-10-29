@@ -38,12 +38,5 @@ class Rectangle {
   set bottom(num value) => top = value - height;
 }
 
-abstract class Doer {
-  void doSomething();
-}
 
-class EffectiveDoer extends Doer {
-  void doSomething() {
-    print('doSomething');
-  }
-}
+
