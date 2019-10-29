@@ -32,4 +32,35 @@
 * コンパイル時、定数オブジェクトを作るコンストラクターを作ることもできる。しかし常に同じオブジェクトにはならないので注意が必要だそうです。
 * ファクトリコンストラクターは常にインスタンスを作って渡すわけではなく、二回目以降はキャッシュを使って返すらしい。
 
+# 06 Methods
 
+* 他の言語同様に関数、ゲッター、セッターを作成することができる。
+
+# 07 Abstract classes
+
+* abstract メソッド、クラスを作成することができる。
+
+# 08 Implicit interfaces
+
+* implements でインタフェースの実装をできる。
+
+# 09 Extending a class
+
+* extendsで継承の実装ができる
+* Operatorのオーバーライドも実装できる。
+* Overrideをつけることでスーパークラスにメソッドがないことを検知できる?
+
+# 10 Enumerated types
+
+* 他の言語と同様にEnumクラスを定義できる
+* Enum.ValuesでEnum一覧を取得できる。
+
+# 11 Adding features to a class: mixins
+
+* withでMixinを使うことができる
+* onでMixinする実装できるスーパークラスを限定できる。
+
+# 12 Class variables and methods
+
+* クラスにStatic変数を定義できる
+* またクラスにはStatic関数を定義できる。
